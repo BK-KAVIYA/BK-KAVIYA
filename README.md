@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://www.mediafire.com/view/4qkey09hfirxe68/Cove1.jpg/file" alt="cover"/>
+<img src="https://github.com/BK-KAVIYA/BK-KAVIYA/blob/7a75c4245bc8bc3d235386cb5078c59fc079f66f/Cove1.jpg" alt="cover"/>
 
 <h1 align="left" id="macropower-title">Hello there!👋 I'm Baladurage Kavinda</h1>
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
