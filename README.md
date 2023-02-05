@@ -23,7 +23,7 @@
 - ⚡ What I like to do: **I like so much reading, watch movies and play cricket...and coding of course**
 <br>
 <h3 align="center">Connect with me:</h3>
-<!--
+
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://madushansandaru1.github.io)](https://madushansandaru1.github.io)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94771637551)](https://wa.me/+94771637551)
 [![Skype Badge](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/yrHGvgiHdCb2)
@@ -36,7 +36,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logoColor=white&logo=Telegram&link=https://t.me/madushansandaru1)](https://t.me/madushansandaru1)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logoColor=white&logo=facebook&link=https://www.facebook.com/MadushanSandaru1)](https://www.facebook.com/MadushanSandaru1)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-c32aa3?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/madushansandaru1/)](https://www.instagram.com/madushansandaru1/)
--->
+
 <br>
 
 
