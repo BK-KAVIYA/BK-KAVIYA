@@ -32,11 +32,11 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dilshankavinda371@gmail.com)](mailto:dilshankavinda371@gmail.com)
  [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/BK-KAVIYA)](https://github.com/BK-KAVIYA)
  [![Stack-overflow Badge](https://img.shields.io/badge/Stack-overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13410194/)](https://stackoverflow.com/users/13410194/)
- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baladurage-kavinda-0a3a6a14b/)](https://www.linkedin.com/in/baladurage-kavinda-0a3a6a14b/)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baladurage-kavinda-0a3a6a14b/)](www.linkedin.com/in/baladurage-kavinda)
  [![Medium Badge](https://img.shields.io/badge/Medium-02b875?style=flat-square&labelColor=12100e&logo=Medium&link=https://#/)](https://#/)
  [![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logoColor=white&logo=Telegram&link=https://t.me/BK_KAVIYA)](https://t.me/BK_KAVIYA)
  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logoColor=white&logo=facebook&link=https://www.facebook.com/profile.php?id=100016232133045)](https://www.facebook.com/profile.php?id=100016232133045)
- [![Instagram Badge](https://img.shields.io/badge/Instagram-c32aa3?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kavindanishad/)](https://www.instagram.com/kavindanishad/)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-c32aa3?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kavindanishad/)](https://instagram.com/bk__kaviya?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
 
 <br>
