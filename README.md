@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://kavinda.me" target="blank">
-    <img src="https://github.com/Vimudhi/kavinda/blob/main/View_my_portfolio-modified.png" alt="kavinda.me">
+    <img src="https://github.com/Vimudhi/kavinda/blob/main/View_my_portfolio-modified.png" width="120px" alt="kavinda.me">
   </a>
 </p>
 
