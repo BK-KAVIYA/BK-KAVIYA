@@ -29,7 +29,7 @@
 - 📫 How to reach me **dilshankavinda371@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-<br><br>
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/baladurage-kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baladurage-kavinda" height="30" width="40" /></a>
